@@ -12,6 +12,6 @@ entries:
     digest: 35a4e31bfacc496f1b1bce664652916bb8701cc9df77f1b90534f5234ff297a6
     name: helm-chart-test
     urls:
-    - https://meghanaph.github.io/helm-chart/helm-chart-0.1.0.tgz
+    - https://meghanaph.github.io/helm-chart/charts/helm-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2022-06-02T16:22:10.1360811+05:30"
